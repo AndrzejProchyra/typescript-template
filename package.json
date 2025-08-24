@@ -4,15 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "@babel/preset-typescript": "^7.27.1",
     "@tsconfig/node-lts": "^22.0.2",
+    "@types/jest": "^30.0.0",
     "@types/node": "^24.3.0",
+    "babel-jest": "^30.0.5",
     "jest": "^30.0.5",
     "typescript": "^5.9.2"
   }
