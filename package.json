@@ -12,6 +12,7 @@
   "type": "module",
   "devDependencies": {
     "@tsconfig/node-lts": "^22.0.2",
+    "@types/node": "^24.3.0",
     "typescript": "^5.9.2"
   }
 }
