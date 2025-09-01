@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "typecheck": "tsc --noEmit",
     "test": "jest",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
