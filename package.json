@@ -18,7 +18,7 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "@babel/core": "^7.28.3",
+    "@babel/core": "^7.28.4",
     "@babel/preset-env": "^7.28.3",
     "@babel/preset-typescript": "^7.27.1",
     "@tsconfig/node-lts": "^22.0.2",
